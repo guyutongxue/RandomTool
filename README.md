@@ -12,7 +12,7 @@
 
 按下 <kbd>F12</kbd> 来启用开发者选项。
 
-- Avoid list 中的号码不会被摇到。点击下方的`Save\(Temporary\)`临时保存。
+- Avoid list 中的号码不会被摇到。点击下方的`Save (Temporary)`临时保存。
 - Certain Number 可以设定每一次摇到的数字。在右侧的输入框添加，删除，或者重新记录次数。
 
 每次启动摇号器将读取`Options.txt`中的开发者选项配置。
