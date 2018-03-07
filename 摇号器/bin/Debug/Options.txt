@@ -1,0 +1,10 @@
+<RandomToolOptionFile>
+<AvoidList>
+</>
+<Confirm>
+<Number>
+</>
+<Value>
+</>
+</>
+</>
